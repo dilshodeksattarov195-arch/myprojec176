@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpave",
+        "uuid": 1032064,
+        "checksum": "7vsnrv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
